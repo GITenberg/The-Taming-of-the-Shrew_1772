@@ -1,5 +1,5 @@
 _repo: The-Taming-of-the-Shrew_1772
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -32,5 +32,6 @@ subjects:
 - !lcsh 'Comedies'
 - !lcsh 'Married people -- Drama'
 - !lcsh 'Sex role -- Drama'
+- GITenberg
 title: The Taming of the Shrew
 url: http://www.gutenberg.org/ebooks/1772
